@@ -18,8 +18,8 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Ciaa-bot" //namabot kalian
+global.ownername= "Ciaabot ×፝֟͜×" //nama kalian
 global.myweb ="https://herokuapp.com" //bebas asal jan hapus
 global.youtube = "https://Wibusoft.com" //bebas asal jan hapus
 global.github = "https://github.com" //bebas
