@@ -18,8 +18,8 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "EBY X PIA" //namabot kalian
-global.ownername= "EBY-PIA ×፝֟͜×" //nama kalian
+global.botname = "Gian ❤️ Lia" //namabot kalian
+global.ownername= "lia ×፝֟͜×" //nama kalian
 global.myweb ="https://herokuapp.com" //bebas asal jan hapus
 global.youtube = "https://Wibusoft.com" //bebas asal jan hapus
 global.github = "https://github.com" //bebas
@@ -30,9 +30,9 @@ global.ownernomerr = "+6287889887883" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6288214736987","6287889887883","6285762071746"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© EBYPIA' //sticker wm ubah
-global.author = 'Di buat oleh EBYPIA' //sticker wm ganti nama kalian
+global.owner = ["6287889887883","6287889887883","6287889887883"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©LiaGian' //sticker wm ubah
+global.author = 'Di buat oleh Liagian' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
